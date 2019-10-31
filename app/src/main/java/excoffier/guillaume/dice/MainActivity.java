@@ -12,7 +12,7 @@ import java.util.Random;
 
 import static android.R.attr.button;
 import static android.R.attr.numberPickerStyle;
-
+//ligma
 public class MainActivity extends AppCompatActivity {
 
     @Override
